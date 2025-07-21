@@ -1,0 +1,14 @@
+torch
+transformers
+scikit-learn
+matplotlib
+seaborn
+numpy
+# For UMAP manifold analysis
+umap-learn
+# For experiment datasets
+datasets
+# For Hugging Face model interaction
+sentencepiece
+accelerate
+bitsandbytes 
